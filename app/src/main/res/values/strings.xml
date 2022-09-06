@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AllBalanceCheckCompose</string>
+    <string name="bank_balance">Bank Balance</string>
+    <string name="text_block_atm_card">Block ATM</string>
+    <string name="text_mini_statement">Mini Statement</string>
+    <string name="text_loan_emi_calculator">Loan / EMI Calculator</string>
+    <string name="hint_loan_amount">Loan Amount</string>
+    <string name="text_interest_rate">Interest Rate (%)</string>
+    <string name="text_hint_year">Year</string>
+    <string name="text_hint_month">Month</string>
+
+    <!--    Personal Loan-->
+    <string name="default_personal_loan_amt">25000</string>
+    <string name="default_personal_loan_interest_rate">10.5</string>
+    <string name="default_personal_loan_year">3</string>
+    <string name="default_personal_loan_month">0</string>
+
+    <!--    Home Loan-->
+    <string name="default_home_loan_amt">800000</string>
+    <string name="default_home_loan_interest_rate">8.5</string>
+    <string name="default_home_loan_year">25</string>
+    <string name="default_home_loan_month">0</string>
+
+    <!--    Car Bike Loan-->
+    <string name="default_car_bike_loan_amt">300000</string>
+    <string name="default_car_bike_loan_interest_rate">9</string>
+    <string name="default_car_bike_loan_year">7</string>
+    <string name="default_car_bike_loan_month">0</string>
+    <string name="text_fd_rd_calculator">FD RD Calculator</string>
+    <string name="text_hint_amount">Amount</string>
+    <string name="text_bank_logo">Bank Logo</string>
+    <string name="text_vehicle_number">Vehicle Number</string>
+</resources>
